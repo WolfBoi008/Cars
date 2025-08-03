@@ -1,4 +1,4 @@
-# Cars
+# Archipelago Manual - Cars
 
 ## Notes
 - I might create a Story Mode version, but the current idea is just free racing and similar features, similar to the Crash Team Racing Manual.

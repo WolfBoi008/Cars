@@ -8,6 +8,7 @@
   - R4MONE - Unlock all characters
   - YAYCARS - Unlock all cars
 - Even if you have a complete save file, you'll still need to use the Cheat Code TRGTEXC to unlock Master’s Speedy Circuit and Countdown Cleanup once you are given the Bonus Games Password Item.
+- If any version differences don't work due to me playing/making this Manual on the Wii, please let me know!
 ## Goal(s)
 - Complete All Piston Cup Races
 - Collect Piston Cup Trophies

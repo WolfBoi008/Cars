@@ -7,7 +7,7 @@
   - MATTL66 - Unlock all tracks
   - R4MONE - Unlock all characters
   - YAYCARS - Unlock all cars
-- Even if you have a complete save file, you'll still need to use the Cheat Code TRGTEXC to unlock Mater’s Speedy Circuit and Countdown Cleanup once you are given the Bonus Games Password Item.
+- Even if you have a complete save file, you'll still need to use the Cheat Code TRGTEXC to unlock Mater’s Speedy Circuit and Mater's Countdown Clean-Up once you are given the Bonus Games Password Item.
 - If any version differences don't work due to me playing/making this Manual on the Wii, please let me know!
 ## Goal(s)
 - Complete All Piston Cup Races

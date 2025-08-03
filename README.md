@@ -2,6 +2,12 @@
 
 ## Notes
 - I might create a Story Mode version, but the current idea is just free racing and similar features, similar to the Crash Team Racing Manual.
+- If you don't have a complete save file for the game, you'll need a few Cheat Codes:
+  - IF900HP - Unlock all mini-games
+  - MATTL66 - Unlock all tracks
+  - R4MONE - Unlock all characters
+  - YAYCARS - Unlock all cars
+- Even if you have a complete save file, you'll still need to use the Cheat Code TRGTEXC to unlock Master’s Speedy Circuit and Countdown Cleanup once you are given the Bonus Games Password Item.
 ## Goal(s)
 - Complete All Piston Cup Races
 - Collect Piston Cup Trophies

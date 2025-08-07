@@ -5,7 +5,6 @@
 - If you don't have a complete save file for the game, you'll need a few Cheat Codes:
   - IF900HP - Unlock all mini-games
   - MATTL66 - Unlock all tracks
-  - R4MONE - Unlock all characters
   - YAYCARS - Unlock all cars
 - Even if you have a complete save file, you'll still need to use the Cheat Code TRGTEXC to unlock Mater’s Speedy Circuit and Mater's Countdown Clean-Up once you are given the Bonus Games Password Item.
 - If any version differences don't work due to me playing/making this Manual on the Wii, please let me know!

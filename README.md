@@ -10,7 +10,6 @@
 - If any version differences don't work due to me playing/making this Manual on the Wii, please let me know!
 ## Goal(s)
 - Complete All Piston Cup Races
-- Collect Piston Cup Trophies
 ## Items
 - Playable Characters
 - Races

@@ -1,0 +1,14 @@
+{
+    "Minigamesanity": {
+        "yaml_option": ["minigamesanity"],
+        "hidden": true
+    },
+    "Extended Race Checks": {
+        "yaml_option": ["extended_race_checks"],
+        "hidden": true
+    },
+    "Extended Character Checks": {
+        "yaml_option": ["extended_character_checks"],
+        "hidden": true
+    }
+}

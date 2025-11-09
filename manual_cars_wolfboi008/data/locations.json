@@ -1,0 +1,1296 @@
+[
+  {
+    "name": "Radiator Springs Grand Prix - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Radiator Springs Grand Prix| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Springs Grand Prix - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Radiator Springs Grand Prix| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Springs Grand Prix - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Radiator Springs Grand Prix| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Cap Circuit - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Radiator Cap Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Cap Circuit - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Radiator Cap Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Cap Circuit - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Radiator Cap Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sally's Sunshine Circuit - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Sally's Sunshine Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sally's Sunshine Circuit - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sally's Sunshine Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sally's Sunshine Circuit - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sally's Sunshine Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Doc's Challenge - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Doc's Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Doc's Challenge - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Doc's Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Doc's Challenge - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Doc's Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Boostin' with Fillmore - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Boostin' with Fillmore| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Boostin' with Fillmore - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Boostin' with Fillmore| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Boostin' with Fillmore - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Boostin' with Fillmore| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "North Desert Dash - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|North Desert Dash| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "North Desert Dash - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|North Desert Dash| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "North Desert Dash - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|North Desert Dash| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sarge's Off-Road Challenge - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Sarge's Off-Road Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sarge's Off-Road Challenge - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sarge's Off-Road Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sarge's Off-Road Challenge - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sarge's Off-Road Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sheriff's Chase - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Sheriff's Chase| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sheriff's Chase - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sheriff's Chase| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Sheriff's Chase - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sheriff's Chase| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Ornament Valley Circuit - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Ornament Valley Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Ornament Valley Circuit - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Ornament Valley Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Ornament Valley Circuit - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Ornament Valley Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Rustbucket Race-O-Rama - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Rustbucket Race-O-Rama| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Rustbucket Race-O-Rama - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Rustbucket Race-O-Rama| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Rustbucket Race-O-Rama - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Rustbucket Race-O-Rama| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Sally's Wheel Well Sprint - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Sally's Wheel Well Sprint| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sally's Wheel Well Sprint - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sally's Wheel Well Sprint| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sally's Wheel Well Sprint - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sally's Wheel Well Sprint| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Doc's Check-Up - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Doc's Check-Up| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Doc's Check-Up - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Doc's Check-Up| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Doc's Check-Up - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Doc's Check-Up| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Tailfin Pass Circuit - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Tailfin Pass Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Tailfin Pass Circuit - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Tailfin Pass Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Tailfin Pass Circuit - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Tailfin Pass Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Monster Truck Mayhem - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Monster Truck Mayhem| AND (|Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Monster Truck Mayhem - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Monster Truck Mayhem| AND (|Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Monster Truck Mayhem - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Monster Truck Mayhem| AND (|Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Delinquent Road Hazards - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Delinquent Road Hazards| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Delinquent Road Hazards - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Delinquent Road Hazards| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Delinquent Road Hazards - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Delinquent Road Hazards| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Chick's Challenge - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Chick's Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Chick's Challenge - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Chick's Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Chick's Challenge - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Chick's Challenge| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Springs GP - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Radiator Springs GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Springs GP - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Radiator Springs GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Radiator Springs GP - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Radiator Springs GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Tailfin Pass GP - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Tailfin Pass GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Tailfin Pass GP - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Tailfin Pass GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Tailfin Pass GP - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Tailfin Pass GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Ornament Valley GP - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Ornament Valley GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Ornament Valley GP - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Ornament Valley GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Ornament Valley GP - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Ornament Valley GP| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|)"
+  },
+  {
+    "name": "Mater's Speedy Circuit - Race Complete",
+    "region": "Road Races",
+    "category": [
+      "Road Races"
+    ],
+    "requires": "|Mater's Speedy Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|) AND |Bonus Games Password|"
+  },
+  {
+    "name": "Mater's Speedy Circuit - Top 3",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Mater's Speedy Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|) AND |Bonus Games Password|"
+  },
+  {
+    "name": "Mater's Speedy Circuit - 1st",
+    "region": "Road Races",
+    "category": [
+      "Road Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Mater's Speedy Circuit| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks| OR |Monster Truck Lightning McQueen| OR |Count Spatula|) AND |Bonus Games Password|"
+  },
+  {
+    "name": "Tractor Tipping - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 1 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 2 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 3 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 4 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 5 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 6 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 7 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Tractor Tipping - Level 8 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Tractor Tipping| AND (|Lightning McQueen| OR |Mater|)"
+  },
+  {
+    "name": "Doc's Lesson - Powerslide - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Doc's Lesson - Powerslide| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Luigi to the Rescue - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 1 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 2 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 3 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 4 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 5 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 6 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 7 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Luigi to the Rescue - Level 8 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Luigi to the Rescue| AND |Luigi|"
+  },
+  {
+    "name": "Sarge's Boot Camp - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Sarge's Boot Camp| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sarge's Boot Camp - Level 1 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sarge's Boot Camp| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sarge's Boot Camp - Level 2 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sarge's Boot Camp| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sarge's Boot Camp - Level 3 Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sarge's Boot Camp| AND (|Lightning McQueen| OR |Mater| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Mater's Backwards Lesson - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Mater's Backwards Lesson| AND (|Lightning McQueen| OR |Sally| OR |Doc Hudson| OR |Ramone| OR |Flo| OR |Sheriff| OR |Wingo| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sheriff's Hot Pursuit - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sheriff's Hot Pursuit| AND |Sheriff|"
+  },
+  {
+    "name": "Sheriff's Hot Pursuit - Speeders Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sheriff's Hot Pursuit| AND |Sheriff|"
+  },
+  {
+    "name": "Sheriff's Hot Pursuit - Hooligans Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sheriff's Hot Pursuit| AND |Sheriff|"
+  },
+  {
+    "name": "Sheriff's Hot Pursuit - Road Hazards Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sheriff's Hot Pursuit| AND |Sheriff|"
+  },
+  {
+    "name": "Sheriff's Hot Pursuit - Delinquents Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sheriff's Hot Pursuit| AND |Sheriff|"
+  },
+  {
+    "name": "Sheriff's Hot Pursuit - Hot Rodders Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games",
+      "Minigamesanity"
+    ],
+    "requires": "|Sheriff's Hot Pursuit| AND |Sheriff|"
+  },
+  {
+    "name": "High Speed Heist - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|High Speed Heist| AND |DJ| AND |Boost| AND |Wingo| AND |Snot Rod|"
+  },
+  {
+    "name": "Lightning Strikes Back - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Lightning Strikes Back| AND |Lightning McQueen|"
+  },
+  {
+    "name": "Mater's Countdown Clean-Up - Mini-Game Complete",
+    "region": "Mini-Games",
+    "category": [
+      "Mini-Games"
+    ],
+    "requires": "|Mater's Countdown Clean-Up| AND (|Lightning McQueen| OR |Mater|) AND |Bonus Games Password|"
+  },
+  {
+    "name": "Palm Mile Speedway - Race Complete",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "requires": "|Palm Mile Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Palm Mile Speedway - Top 3",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Palm Mile Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Palm Mile Speedway - 1st",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Palm Mile Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Motor Speedway of the South - Race Complete",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "requires": "|Motor Speedway of the South| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Motor Speedway of the South - Top 3",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Motor Speedway of the South| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Motor Speedway of the South - 1st",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Motor Speedway of the South| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sun Valley International Raceway - Race Complete",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "requires": "|Sun Valley International Raceway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sun Valley International Raceway - Top 3",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sun Valley International Raceway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Sun Valley International Raceway - 1st",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Sun Valley International Raceway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Smasherville International Speedway - Race Complete",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "requires": "|Smasherville International Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Smasherville International Speedway - Top 3",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Smasherville International Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Smasherville International Speedway - 1st",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Smasherville International Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Los Angeles International Speedway - Race Complete",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "requires": "|Los Angeles International Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Los Angeles International Speedway - Top 3",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Los Angeles International Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Los Angeles International Speedway - 1st",
+    "region": "Piston Cup Races",
+    "category": [
+      "Piston Cup Races",
+      "Extended Race Checks"
+    ],
+    "requires": "|Los Angeles International Speedway| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)"
+  },
+  {
+    "name": "Ghosting Mater - Bonus Game Complete",
+    "region": "Bonus Games",
+    "category": [
+      "Bonus Games"
+    ],
+    "requires": "|Ghosting Mater| AND |Mater|"
+  },
+  {
+    "name": "Complete Piston Cup",
+    "region": "Piston Cup Races",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Piston Cup Races:5| AND (|Lightning McQueen| OR |Darrell Cartrip| OR |Doc Hudson| OR |The King| OR |Chick Hicks|)",
+    "victory": true
+  },
+  {
+    "name": "Event Complete as Lightning McQueen",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Lightning McQueen| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Rustbucket Race-O-Rama| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Tractor Tipping| OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |Lightning Strikes Back| OR (|Mater's Countdown Clean-Up| AND |Bonus Games Password|) OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "Top 3 as Lightning McQueen",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Lightning McQueen| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Rustbucket Race-O-Rama| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Tractor Tipping| OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |Lightning Strikes Back| OR (|Mater's Countdown Clean-Up| AND |Bonus Games Password|) OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "1st as Lightning McQueen",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Lightning McQueen| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Rustbucket Race-O-Rama| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Tractor Tipping| OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |Lightning Strikes Back| OR (|Mater's Countdown Clean-Up| AND |Bonus Games Password|) OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "Event Complete as Mater",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Mater| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Rustbucket Race-O-Rama| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Tractor Tipping| OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR (|Mater's Countdown Clean-Up| AND |Bonus Games Password|) OR |Ghosting Mater|)"
+  },
+  {
+    "name": "Top 3 as Mater",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Mater| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Rustbucket Race-O-Rama| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Tractor Tipping| OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR (|Mater's Countdown Clean-Up| AND |Bonus Games Password|) OR |Ghosting Mater|)"
+  },
+  {
+    "name": "1st as Mater",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Mater| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Rustbucket Race-O-Rama| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Tractor Tipping| OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR (|Mater's Countdown Clean-Up| AND |Bonus Games Password|) OR |Ghosting Mater|)"
+  },
+  {
+    "name": "Event Complete as Sally",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Sally| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Top 3 as Sally",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Sally| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "1st as Sally",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Sally| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Event Complete as Doc Hudson",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Doc Hudson| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "Top 3 as Doc Hudson",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Doc Hudson| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "1st as Doc Hudson",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Doc Hudson| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "Event Complete as Ramone",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Ramone| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Top 3 as Ramone",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Ramone| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "1st as Ramone",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Ramone| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Event Complete as Flo",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Flo| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Top 3 as Flo",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Flo| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "1st as Flo",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Flo| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Event Complete as Sheriff",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Sheriff| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |Sheriff's Hot Pursuit|)"
+  },
+  {
+    "name": "Top 3 as Sheriff",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Sheriff| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |Sheriff's Hot Pursuit|)"
+  },
+  {
+    "name": "1st as Sheriff",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Sheriff| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |Sheriff's Hot Pursuit|)"
+  },
+  {
+    "name": "Event Complete as Chick Hicks",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Chick Hicks| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "Top 3 as Chick Hicks",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Chick Hicks| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "1st as Chick Hicks",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Chick Hicks| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson| OR |@Piston Cup Races:1|)"
+  },
+  {
+    "name": "Event Complete as Wingo",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Wingo| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Top 3 as Wingo",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Wingo| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "1st as Wingo",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Wingo| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Sally's Wheel Well Sprint| OR |Doc's Check-Up| OR |Tailfin Pass Circuit| OR |Delinquent Road Hazards| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Tailfin Pass GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|) OR |Doc's Lesson - Powerslide| OR |Sarge's Boot Camp| OR |Mater's Backwards Lesson|)"
+  },
+  {
+    "name": "Event Complete as Darrell Cartrip",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Darrell Cartrip| AND |@Piston Cup Races:1|"
+  },
+  {
+    "name": "Top 3 as Darrell Cartrip",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Darrell Cartrip| AND |@Piston Cup Races:1|"
+  },
+  {
+    "name": "1st as Darrell Cartrip",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Darrell Cartrip| AND |@Piston Cup Races:1|"
+  },
+  {
+    "name": "Event Complete as The King",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|The King| AND |@Piston Cup Races:1|"
+  },
+  {
+    "name": "Top 3 as The King",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|The King| AND |@Piston Cup Races:1|"
+  },
+  {
+    "name": "1st as The King",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|The King| AND |@Piston Cup Races:1|"
+  },
+  {
+    "name": "Event Complete as Monster Truck Lightning McQueen",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Monster Truck Lightning McQueen| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Doc's Check-Up| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|))"
+  },
+  {
+    "name": "Top 3 as Monster Truck Lightning McQueen",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Monster Truck Lightning McQueen| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Doc's Check-Up| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|))"
+  },
+  {
+    "name": "1st as Monster Truck Lightning McQueen",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Monster Truck Lightning McQueen| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Doc's Check-Up| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|))"
+  },
+  {
+    "name": "Event Complete as Count Spatula",
+    "region": "Characters",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Count Spatula| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Doc's Check-Up| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|))"
+  },
+  {
+    "name": "Top 3 as Count Spatula",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Count Spatula| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Doc's Check-Up| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|))"
+  },
+  {
+    "name": "1st as Count Spatula",
+    "region": "Characters",
+    "category": [
+      "Characters",
+      "Extended Character Checks"
+    ],
+    "requires": "|Count Spatula| AND (|Radiator Springs Grand Prix| OR |Radiator Cap Circuit| OR |Sally's Sunshine Circuit| OR |Doc's Challenge| OR |Boostin' with Fillmore| OR |North Desert Dash| OR |Sarge's Off-Road Challenge| OR |Sheriff's Chase| OR |Ornament Valley Circuit| OR |Doc's Check-Up| OR |Chick's Challenge| OR |Radiator Springs GP| OR |Ornament Valley GP| OR (|Mater's Speedy Circuit| AND |Bonus Games Password|))"
+  }
+]

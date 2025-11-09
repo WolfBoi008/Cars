@@ -1,0 +1,540 @@
+[
+  {
+    "count": 1,
+    "name": "Radiator Springs Grand Prix",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Radiator Cap Circuit",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sally's Sunshine Circuit",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doc's Challenge",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boostin' with Fillmore",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "North Desert Dash",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sarge's Off-Road Challenge",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sheriff's Chase",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ornament Valley Circuit",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rustbucket Race-O-Rama",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sally's Wheel Well Sprint",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doc's Check-Up",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tailfin Pass Circuit",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Truck Mayhem",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Delinquent Road Hazards",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chick's Challenge",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Radiator Springs GP",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tailfin Pass GP",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ornament Valley GP",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mater's Speedy Circuit",
+    "category": [
+      "Road Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tractor Tipping",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doc's Lesson - Powerslide",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Luigi to the Rescue",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sarge's Boot Camp",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mater's Backwards Lesson",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sheriff's Hot Pursuit",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "High Speed Heist",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning Strikes Back",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mater's Countdown Clean-Up",
+    "category": [
+      "Mini-Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Palm Mile Speedway",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Motor Speedway of the South",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sun Valley International Raceway",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Smasherville International Speedway",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Los Angeles International Speedway",
+    "category": [
+      "Piston Cup Races"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ghosting Mater",
+    "category": [
+      "Bonus Games"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightning McQueen",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mater",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sally",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doc Hudson",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ramone",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flo",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sheriff",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chick Hicks",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wingo",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Darrell Cartrip",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The King",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Truck Lightning McQueen",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Count Spatula",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Luigi",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DJ",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boost",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snot Rod",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Games Password",
+    "category": [
+      "Codes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boost Meter",
+    "category": [
+      "Misc."
+    ],
+    "useful": true
+  },
+  {
+    "count": 13,
+    "name": "Lightning McQueen Paint Job",
+    "description": "WHY DOES HE HAVE SO MANY",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 6,
+    "name": "Mater Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 3,
+    "name": "Sally Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 7,
+    "name": "Doc Hudson Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 6,
+    "name": "Ramone Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 9,
+    "name": "Flo Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 9,
+    "name": "Sheriff Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 4,
+    "name": "Chick Hicks Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 8,
+    "name": "Wingo Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 5,
+    "name": "Darrell Cartrip Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 7,
+    "name": "The King Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 13,
+    "name": "Monster Truck Lightning McQueen Paint Job",
+    "description": "And then he gets them all AGAIN for his monster truck form WHY",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  },
+  {
+    "count": 6,
+    "name": "Count Spatula Paint Job",
+    "category": [
+      "Paint Jobs"
+    ],
+    "filler": true
+  }
+]

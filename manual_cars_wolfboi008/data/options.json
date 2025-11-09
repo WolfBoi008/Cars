@@ -1,0 +1,100 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough."
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "_Example_Toggle":{
+            "description": [
+                "This is a Toggle",
+                "A simple boolean, aka True or False set the initial value with \"default\""
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Example Options"
+        },
+        "_Example_Choice":{
+            "type": "Choice",
+            "description": [
+                "This is a Choice",
+                "Let the user pick from a list of values",
+                "allow_custom_value let a player define their own text value",
+                "Currently the only use for Choice in Manual outside of hooks is the goal"
+            ],
+            "values": {
+                "start":0,
+                "test":1
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Example Options"
+        },
+        "_Example_Range":{
+            "type": "Range",
+            "description": [
+                "This is a Range",
+                "Allow the player to specify a value between 'start' and 'end'",
+                "if you include a \"values\" you can define the label for certain values",
+                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 10,
+            "values": {"example": 2},
+            "group": "Example Options"
+        },
+        "_DLC_enabled":{
+            "display_name": "DLC Enabled",
+            "description": "Is the Dlc enabled?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true
+        },
+        "minigamesanity": {
+            "type": "Toggle",
+            "description": [
+                "Allows Mini-Games that have multiple levels to have a Check on EVERY level.",
+                "Recommended for people who REALLY like playing the Mini-Games.",
+                "(25 Checks)"
+            ],
+            "default": false
+        },
+        "extended_checks": {
+            "type": "Choice",
+            "description": [
+                "This Manual doesn't have enough Checks to fit all of the Progression items without some extra.",
+                "(Well, unless you enabled Minigamesanity, but how many people are actually going to do that?)",
+                "As such, you get the choice. Choose which set of extra Checks you'd wish to add.",
+                "Extended Race Checks - Top 3 and/or 1st in each RACE is a Check.",
+                "Extended Character Checks - Top 3 and/or 1st with each CHARACTER is a Check.",
+                "Both Extended - Both of the above sets of Checks are applied."
+            ],
+            "values": {
+                "extended_race_checks": 0,
+                "extended_character_checks": 1,
+                "both_extended": 2
+             },
+            "default": 2,
+            "allow_custom_value": false
+        }
+    }
+
+}

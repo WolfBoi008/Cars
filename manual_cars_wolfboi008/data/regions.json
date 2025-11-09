@@ -1,0 +1,22 @@
+{
+  "Road Races": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Mini-Games": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Piston Cup Races": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Bonus Games": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Characters": {
+    "connects_to": [],
+    "requires": []
+  }
+}
